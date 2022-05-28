@@ -1,3 +1,11 @@
+# React Movie Finder App
+This personal project was for me to practice using React components, states, hooks and props to build a site where you can search movies/series.
+
+In this project I am using Javascript React, vanilla CSS, and an api call to OMDB movies api for the database of movies.
+
+When searching a term such as "batman", it will return a group of objects related to this search term. For example, Batman movies and series or other movies/series that include batman. It also shows if the item is a movie or a series and shows the date of release.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
